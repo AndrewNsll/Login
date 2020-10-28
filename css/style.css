@@ -5,3 +5,23 @@ body{
 .titulo{
     color: rgb(173, 173, 173);
 }
+
+.fondo{
+    background-color: rgba(211, 211, 211, 0.863);
+    width: 300px;
+    height: 520px;
+    margin: 0 auto;
+    border-radius: 30px;
+}
+
+.cabeza{
+    background-color: rgba(61, 73, 236, 0.863);
+    width: 300px;
+    height: 230px;
+    margin: 0 auto;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
